@@ -24,12 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53363940-e22c-4e3d-8131-1d0e26a0eae1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/bank/stats/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/bank/stats/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/bank/stats/stats.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/bank/stats/stats.go" afterDir="false" />
-    </list>
+    <list default="true" id="53363940-e22c-4e3d-8131-1d0e26a0eae1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

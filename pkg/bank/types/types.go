@@ -28,10 +28,14 @@ type Card struct {
 	MinBalance Money
 }
 
+// куда отправили платеж
+type Category string
+
 //Payment represents information about payments, but this comment is redundant
 type Payment struct {
 	ID int
 	Amount Money
+	Сategory Category
 }
 
 type PaymentSource struct {
