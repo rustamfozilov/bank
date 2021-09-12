@@ -33,9 +33,9 @@ type Category string
 
 //Payment represents information about payments, but this comment is redundant
 type Payment struct {
-	ID int
-	Amount Money
-	Сategory Category
+	ID       int
+	Amount   Money
+	Category Category
 }
 
 type PaymentSource struct {
