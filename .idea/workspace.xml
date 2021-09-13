@@ -24,7 +24,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53363940-e22c-4e3d-8131-1d0e26a0eae1" name="Default Changelist" comment="" />
+    <list default="true" id="53363940-e22c-4e3d-8131-1d0e26a0eae1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/bank/stats/example_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/bank/stats/stats.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,9 +62,20 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stats" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Test.ExampleTotalInCategory in github.com/rustamfozilov/bank/pkg/bank/stats">
+    <configuration name="ExampleAvg in github.com/rustamfozilov/bank/pkg/bank/stats (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bank" />
+      <working_directory value="$PROJECT_DIR$/pkg/bank/stats" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/rustamfozilov/bank/pkg/bank/stats" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^ExampleAvg$" />
+      <method v="2" />
+    </configuration>
     <configuration name="ExampleAvg in github.com/rustamfozilov/bank/pkg/bank/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="bank" />
       <working_directory value="$PROJECT_DIR$/pkg/bank/stats" />
@@ -71,8 +87,21 @@
       <pattern value="^ExampleAvg$" />
       <method v="2" />
     </configuration>
+    <configuration name="ExampleTotalInCategory in github.com/rustamfozilov/bank/pkg/bank/stats" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bank" />
+      <working_directory value="$PROJECT_DIR$/pkg/bank/stats" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/rustamfozilov/bank/pkg/bank/stats" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^ExampleTotalInCategory$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.ExampleTotalInCategory in github.com/rustamfozilov/bank/pkg/bank/stats" />
+        <item itemvalue="Go Test.ExampleAvg in github.com/rustamfozilov/bank/pkg/bank/stats (1)" />
         <item itemvalue="Go Test.ExampleAvg in github.com/rustamfozilov/bank/pkg/bank/stats" />
       </list>
     </recent_temporary>
@@ -95,26 +124,30 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1631471576271">
+    <state x="583" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1631479391018">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1631471576271" />
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1631472763441">
+    <state x="583" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1631479391018" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1631543676797">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1631472763441" />
-    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1631472763441">
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1631543676797" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1631479547263">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1631472763441" />
-    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1631472763441">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1631479547263" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1631479547262">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1631472763441" />
-    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1631472763441">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1631479547262" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1631479547262">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1631472763441" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1631479547262" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1631479547263">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1631479547263" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1631472763442">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
